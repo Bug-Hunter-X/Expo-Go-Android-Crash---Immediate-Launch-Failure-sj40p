@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app on Android devices. The app crashes immediately upon launch with no error message or logs in the Expo development tools. The problem only affects Android devices, while iOS devices work perfectly fine. The issue is intermittent, sometimes working and sometimes not.
